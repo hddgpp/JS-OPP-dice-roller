@@ -5,7 +5,7 @@ Built on **Day 50** of my coding journey 🚀
 
 ## Features
 - Enter the number of sides for the dice
-- Click **Roll** to generate a random number
+- Click **roll** to generate a random number
 - Clean and minimal UI
 
 ## How to Run
@@ -19,4 +19,4 @@ Built on **Day 50** of my coding journey 🚀
 
 Example
 
-Input 6 → click roll → outputs a number between 1 and 6.
+Input 8 → click roll → outputs a number between 1 and 8.
