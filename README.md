@@ -1,6 +1,6 @@
 # 🎲 Dice Roller
 
-A simple dice roller app made with **JavaScript OOP**, HTML, and CSS.  
+A simple dice roller app made with **JavaScript-OOP**, HTML, and CSS.  
 Built on **Day 50** of my coding journey 🚀
 
 ## Features
