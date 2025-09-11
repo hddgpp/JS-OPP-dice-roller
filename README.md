@@ -19,4 +19,4 @@ Built on **Day 50** of my coding journey 🚀
 
 Example
 
-Input 8 → click roll → outputs a number between 1 and 8.
+Input 6 → click roll → outputs a number between 1 and 6.
